@@ -1,2 +1,3 @@
 # Project in C
- Para aprendizado
+ Para aprendizado!
+ Reposiório Criado para aprender!
